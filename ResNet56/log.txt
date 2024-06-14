@@ -352,3 +352,5 @@ Layer 52 - Remaining Filters: 64
 Layer 53 - Remaining Filters: 64
 Layer 54 - Remaining Filters: 64
 Layer 55 - Remaining Filters: 64
+Epoch [1/1], Train Accuracy: 99.93%
+Epoch [1/1], Test Accuracy: 90.53%
