@@ -1,0 +1,4 @@
+Traceback (most recent call last):
+  File "/workspace/Pruning/LeNet5/lenet_ufkt.py", line 10, in <module>
+    from torchsummary import summary
+ModuleNotFoundError: No module named 'torchsummary'
